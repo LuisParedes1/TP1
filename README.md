@@ -2,7 +2,7 @@
 
 A partir de la base de datos de Wikipedia, responder las siguientes preguntas.
 
-La base de datos se encuentra loca y tambien en [google drive](https://drive.google.com/drive/folders/1VfOBakIeGx0pi0v5cDD9cgvsbENVhs78)
+La base de datos se encuentra local y tambien en [google drive](https://drive.google.com/drive/folders/1VfOBakIeGx0pi0v5cDD9cgvsbENVhs78)
 
 
 # Preguntas que me tocan  **6**,**8**,**15**,**39**,**47**,**55**,**60**
