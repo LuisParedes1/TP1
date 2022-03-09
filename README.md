@@ -1,3 +1,5 @@
+[Enunciado](https://github.com/LuisParedes1/TP1/blob/master/TP1_2c20211.pdf)
+
 # TP1 orgazacion de datos
 
 A partir de la base de datos de Wikipedia, responder las siguientes preguntas.
